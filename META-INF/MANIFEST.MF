@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Implementation-Title: JavaCV
+Implementation-Version: 0.1
+Built-By: saudet
+Class-Path: javacpp.jar javacv-linux-x86.jar javacv-linux-x86_64.jar j
+ avacv-macosx-x86.jar javacv-macosx-x86_64.jar javacv-windows-x86.jar 
+ javacv-windows-x86_64.jar javacpp-0.1.jar
+Specification-Vendor: Samuel Audet
+Created-By: Apache Maven
+Implementation-Vendor: Samuel Audet
+Build-Jdk: 1.6.0_20
+Name: com/googlecode/javacv/
+Specification-Title: JavaCV
+Specification-Version: 0.1
+Main-Class: com.googlecode.javacv.JavaCV
+Archiver-Version: Plexus Archiver
+
